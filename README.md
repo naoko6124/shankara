@@ -8,9 +8,9 @@
 
 🔹 [Descrição do projeto](/shankara#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades](/shankara#funcionalidades%EF%B8%8F)
+🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F)
 
-🔹 [Distribuição](/shankara#Distribuição)
+🔹 [Distribuição](/README.md#Distribuição)
 
 🔹 Pré-requisitos
 
