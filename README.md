@@ -77,7 +77,7 @@ Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv
 ## Linguagens, dependências e libs utilizadas 📚
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Resolvendo Problemas
 
