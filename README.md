@@ -6,9 +6,9 @@
 
 ## Tópicos
 
-🔹 Descrição do projeto
+🔹 Descrição do projeto
 
-🔹[Funcionalidades](##Funcionalidades⚙️)
+🔹 Funcionalidades
 
 🔹 Distribuição
 
@@ -24,7 +24,7 @@
 
 🔹 Novas Recursos
 
-🔹 [Resolvendo problemas](##ResolvendoProblemas)
+🔹 Resolvendo problemas
 
 🔹 Recursos inseridos
 
