@@ -6,9 +6,9 @@
 
 ## Tópicos
 
-🔹 [Descrição do projeto](https://www.notion.so/README-md-93b279e1666c4b77b7129d833ebd00cb)
+🔹 [Descrição do projeto](## Descrição do projeto)
 
-🔹 [Funcionalidades](https://www.notion.so/README-md-93b279e1666c4b77b7129d833ebd00cb)
+🔹 [Funcionalidades](## Funcionalidades ⚙️)
 
 🔹 Distribuição
 
