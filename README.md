@@ -93,7 +93,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 📝 Tarefa 3
 
-## Desenvolvedores/Contribuintes:
+## Desenvolvedores/Contribuintes 🤝
 
 Daniel Ohata → Gerente de Projeto | [Contato](mailto:daniel.ohata@facens.br)
 
