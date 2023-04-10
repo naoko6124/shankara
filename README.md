@@ -6,9 +6,9 @@
 
 ## Tópicos
 
-🔹 [Descrição do projeto](## Descrição do projeto)
+🔹 Descrição do projeto
 
-🔹 [Funcionalidades](## Funcionalidades ⚙️)
+🔹 Funcionalidades
 
 🔹 Distribuição
 
@@ -20,7 +20,7 @@
 
 🔹 Banco de Dados
 
-🔹 [Linguagens, dependências e libs utilizadas](https://www.notion.so/README-md-93b279e1666c4b77b7129d833ebd00cb)
+🔹 Linguagens, dependências e libs utilizadas
 
 🔹 Novas Recursos
 
@@ -28,7 +28,7 @@
 
 🔹 Recursos inseridos
 
-🔹 [Desenvolvedores/Contribuintes](https://www.notion.so/README-md-93b279e1666c4b77b7129d833ebd00cb)
+🔹 Desenvolvedores/Contribuintes
 
 🔹 Informações Extras
 
