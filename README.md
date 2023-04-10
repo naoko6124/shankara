@@ -79,19 +79,13 @@ Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Resolvendo Problemas
-
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
 ## Recursos de inseridos 🧰
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
+📝 Sistema de recarregamento do cartão
 
-📝 Tarefa 1
+![image](https://user-images.githubusercontent.com/108158140/230984549-1a79be18-f9a1-4595-a79f-c92f38289e1b.png)
 
-📝 Tarefa 2
-
-📝 Tarefa 3
+![image](https://user-images.githubusercontent.com/108158140/230984676-98e7b494-bc53-434a-95ea-a102b38a09b3.png)
 
 ## Desenvolvedores/Contribuintes 🤝
 
