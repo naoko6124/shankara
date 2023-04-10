@@ -6,9 +6,9 @@
 
 ## Tópicos
 
-🔹 Descrição do projeto
+🔹 [Descrição do projeto](/README.md#descrição-do-projeto)
 
-🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F))
+🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F)
 
 🔹 [Distribuição](/README.md#Distribuição)
 
@@ -20,7 +20,7 @@
 
 🔹 Banco de Dados
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
 🔹 Novas Recursos
 
@@ -28,7 +28,7 @@
 
 🔹 Recursos inseridos
 
-🔹 Desenvolvedores/Contribuintes
+🔹 [Desenvolvedores/Contribuintes](/README.md#desenvolvedorescontribuintes-)
 
 🔹 Informações Extras
 
