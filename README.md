@@ -6,7 +6,7 @@
 
 ## Tópicos
 
-🔹 [Descrição do projeto](/shankara#descri%C3%A7%C3%A3o-do-projeto)
+🔹 [Descrição do projeto](/README.md#descrição-do-projeto)
 
 🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F)
 
@@ -20,7 +20,7 @@
 
 🔹 Banco de Dados
 
-🔹 [Linguagens, dependências e libs utilizadas](/shankara#linguagens-dependências-e-libs-utilizadas)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
 🔹 Novas Recursos
 
@@ -28,7 +28,7 @@
 
 🔹 Recursos inseridos
 
-🔹 [Desenvolvedores/Contribuintes](/shankara#desenvolvedorescontribuintes-)
+🔹 [Desenvolvedores/Contribuintes](/README.md#desenvolvedorescontribuintes-)
 
 🔹 Informações Extras
 
