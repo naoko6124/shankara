@@ -6,7 +6,7 @@
 
 ## Tópicos
 
-🔹 [Descrição do projeto](/shankara#descrição-do-projeto)
+🔹 [Descrição do projeto](/shankara#descri%C3%A7%C3%A3o-do-projeto)
 
 🔹 [Funcionalidades](/shankara#funcionalidades%EF%B8%8F)
 
