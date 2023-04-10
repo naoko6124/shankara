@@ -8,9 +8,9 @@
 
 🔹 Descrição do projeto
 
-🔹 [Funcionalidades](#Funcionalidades)
+🔹 [Funcionalidades](##Funcionalidades)
 
-🔹 Distribuição
+🔹 [Distribuição](/README.md#Distribuição)
 
 🔹 Pré-requisitos
 
