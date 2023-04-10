@@ -8,7 +8,7 @@
 
 🔹 Descrição do projeto
 
-🔹[Funcionalidades](##Funcionalidades⚙️)
+🔹[Funcionalidades](##Funcionalidades ⚙️)
 
 🔹 Distribuição
 
