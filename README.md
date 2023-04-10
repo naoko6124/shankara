@@ -8,7 +8,7 @@
 
 🔹 Descrição do projeto
 
-🔹 [Funcionalidades](##Funcionalidades)
+🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F))
 
 🔹 [Distribuição](/README.md#Distribuição)
 
