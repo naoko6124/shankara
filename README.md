@@ -10,27 +10,21 @@
 
 🔹 [Funcionalidades](/README.md#funcionalidades%EF%B8%8F)
 
-🔹 [Distribuição](/README.md#Distribuição)
-
-🔹 Pré-requisitos
+🔹 [Pré-requisitos](/README.md#pré-requisitos%EF%B8%8F)
 
 🔹 Como rodar a aplicação
 
 🔹 Testes realizados
 
-🔹 Banco de Dados
+🔹 [Banco de Dados](README.md#banco-de-dados%EF%B8%8F)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
 🔹 Novas Recursos
 
-🔹 Resolvendo problemas
-
 🔹 Recursos inseridos
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#desenvolvedorescontribuintes-)
-
-🔹 Informações Extras
 
 ## Descrição do projeto
 
@@ -52,15 +46,9 @@ Essa ideia não apenas aumentaria a conveniência para os usuários, mas também
 
 ✔️ Recarga: o ShanCard pode ser recarregado em terminais de transporte púlico, lojas de conveniência, máquinas de recarga e por um aplicativo. Permitindo que o usuário mantenha o saldo do cartão sempre atualizado.
 
-## Distribuição
-
-Link para teste da versão disponibilizada.
-
 ## Pré-requisitos ⚠️
 
-Versão do Android; SDK; Aparelho utilizado para testes.
-
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+Android 10+; Flutter SDK; Smartphone.
 
 ## Como rodar a aplicação
 
