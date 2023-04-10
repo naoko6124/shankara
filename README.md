@@ -8,7 +8,7 @@
 
 🔹 Descrição do projeto
 
-🔹[Funcionalidades](##Funcionalidades ⚙️)
+🔹[Funcionalidades](##Funcionalidades⚙️)
 
 🔹 Distribuição
 
@@ -24,7 +24,7 @@
 
 🔹 Novas Recursos
 
-🔹 Resolvendo problemas
+🔹 [Resolvendo problemas](##ResolvendoProblemas)
 
 🔹 Recursos inseridos
 
