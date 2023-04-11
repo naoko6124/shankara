@@ -70,7 +70,7 @@ Os dados da base de dados estão armazenados na pasta "Database". É possível a
 ## Recursos de inseridos 🧰
 
 📝 Sistema para desbloquear o cartão;
-📝 Sistema de recarregamento do cartão.
+📝 Sistema de depósito e saque do cartão.
 
 ![image](https://user-images.githubusercontent.com/108158140/230984549-1a79be18-f9a1-4595-a79f-c92f38289e1b.png)
 
