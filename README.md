@@ -51,7 +51,7 @@ Android 10+; Flutter SDK; Smartphone.
 Para rodar a aplicação, siga as instruções abaixo:
 
 1. Baixe o repositório com a aplicação em seu computador.
-2. Baixe, instale e configure o Flutter SDK em seu computador.
+2. Baixe, instale e configure o [Flutter SDK](https://docs.flutter.dev/get-started/install) em seu computador.
 3. Abra o terminal ou prompt de comando e navegue até a pasta do repositório.
 4. Execute o comando **`flutter pub get`** para baixar os pacotes necessários para o projeto.
 5. Execute o comando **`flutter run`** para rodar a aplicação.
