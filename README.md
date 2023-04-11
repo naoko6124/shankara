@@ -12,17 +12,13 @@
 
 🔹 [Pré-requisitos](/README.md#pré-requisitos%EF%B8%8F)
 
-🔹 Como rodar a aplicação
+🔹 [Como rodar a aplicação](/README.md#como-rodar-a-aplicação)
 
-🔹 Testes realizados
-
-🔹 [Banco de Dados](README.md#banco-de-dados%EF%B8%8F)
+🔹 [Banco de Dados](/README.md#banco-de-dados%EF%B8%8F)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
-🔹 Novas Recursos
-
-🔹 Recursos inseridos
+🔹 [Recursos inseridos](/README.md#recursos-de-inseridos)
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#desenvolvedorescontribuintes-)
 
@@ -52,11 +48,15 @@ Android 10+; Flutter SDK; Smartphone.
 
 ## Como rodar a aplicação
 
-Explicação de como se deve utilizar o projeto.
+Para rodar a aplicação, siga as instruções abaixo:
 
-## Testes realizados
+1. Baixe o repositório com a aplicação em seu computador.
+2. Baixe, instale e configure o Flutter SDK em seu computador.
+3. Abra o terminal ou prompt de comando e navegue até a pasta do repositório.
+4. Execute o comando **`flutter pub get`** para baixar os pacotes necessários para o projeto.
+5. Execute o comando **`flutter run`** para rodar a aplicação.
 
-Utilização de imagens e descrição do qeu foi testado.
+Certifique-se de que todas as dependências estejam instaladas corretamente antes de rodar a aplicação. Em caso de dúvidas ou problemas, consulte a documentação oficial do Flutter.
 
 ## Banco de Dados 🗂️
 
@@ -69,7 +69,8 @@ Utilização de imagens e descrição do qeu foi testado.
 
 ## Recursos de inseridos 🧰
 
-📝 Sistema de recarregamento do cartão
+📝 Sistema para desbloquear o cartão;
+📝 Sistema de recarregamento do cartão.
 
 ![image](https://user-images.githubusercontent.com/108158140/230984549-1a79be18-f9a1-4595-a79f-c92f38289e1b.png)
 
