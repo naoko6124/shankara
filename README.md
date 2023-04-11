@@ -60,7 +60,7 @@ Certifique-se de que todas as dependências estejam instaladas corretamente ante
 
 ## Banco de Dados 🗂️
 
-[Base de Dados](/Database)
+Os dados da base de dados estão armazenados na pasta "Database". É possível acessá-los através deste [link](/Database).
 
 ## Linguagens, dependências e libs utilizadas 📚
 
