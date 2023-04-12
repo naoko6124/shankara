@@ -40,7 +40,7 @@ Essa ideia não apenas aumentaria a conveniência para os usuários, mas também
 
 ✔️ Integração com outros serviços: o ShanCard poderá ser integrado com outros serviços, como programas de fidelidade e descontos em lojas.
 
-✔️ Recarga: o ShanCard pode ser recarregado em terminais de transporte púlico, lojas de conveniência, máquinas de recarga e por um aplicativo. Permitindo que o usuário mantenha o saldo do cartão sempre atualizado.
+✔️ Recarga e Limite: o ShanCard pode ser recarregado em terminais de transporte púlico, lojas de conveniência, máquinas de recarga e por um aplicativo. Permitindo que o usuário mantenha o saldo do cartão sempre atualizado. O ShanCard terá um limite de 300 reais.
 
 ## Pré-requisitos ⚠️
 
