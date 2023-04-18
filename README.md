@@ -44,7 +44,7 @@ Essa ideia não apenas aumentaria a conveniência para os usuários, mas também
 
 ## Pré-requisitos ⚠️
 
-Android 10+; Flutter SDK; Smartphone.
+Android 8 ou maior.
 
 ## Como rodar a aplicação
 
