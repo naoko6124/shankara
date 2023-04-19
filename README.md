@@ -72,9 +72,7 @@ Os dados da base de dados estão armazenados na pasta "Database". É possível a
 📝 Sistema para desbloquear o cartão;
 📝 Sistema de depósito e saque do cartão.
 
-![image](https://user-images.githubusercontent.com/108158140/230984549-1a79be18-f9a1-4595-a79f-c92f38289e1b.png)
-
-![image](https://user-images.githubusercontent.com/108158140/230984676-98e7b494-bc53-434a-95ea-a102b38a09b3.png)
+<img src="https://user-images.githubusercontent.com/108158140/230984549-1a79be18-f9a1-4595-a79f-c92f38289e1b.png" width="270" height="480"> <img src="https://user-images.githubusercontent.com/108158140/230984676-98e7b494-bc53-434a-95ea-a102b38a09b3.png" width="270" height="480">
 
 ## Desenvolvedores/Contribuintes 🤝
 
